@@ -1,2 +1,4 @@
 # credit_risk_prediction
-data science coding skills are essential for developers also 
+
+Used a public dataset available , link available
+
